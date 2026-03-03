@@ -1,0 +1,5 @@
+{
+  "name": "工程模式工具 (Engineering Mode Tool)",
+  "description": "一个专业的硬件测试与系统监控工具，支持个体测试、系统日志查看及硬件配置分析。",
+  "requestFramePermissions": []
+}
